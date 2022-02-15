@@ -27,6 +27,7 @@ public class App {
             System.out.println("phuong trinh co nghiem kep: " + (-b / (2 * a)));
         } else {
             System.out.println("phuong trinh co nghiem!");
+            sc.close();
         }
     }
 }
