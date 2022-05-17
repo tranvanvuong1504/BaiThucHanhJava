@@ -15,6 +15,8 @@ public class AppLink{
        showList(nv);
        
     }
+
     private static void showList(LinkedList<nhanvien> nv) {
     }
+   
 }
